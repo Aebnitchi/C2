@@ -1,9 +1,0 @@
-
-{
-  "name": "Mafya",
-  "description": "Mafya",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/2003mafya/C2/main/plugins.json"
-  ]
-}
