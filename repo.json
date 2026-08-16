@@ -1,0 +1,8 @@
+{
+    "name": "C2",
+    "description": "C2",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/Aebnitchi/C2/main/plugins.json"
+    ]
+}
